@@ -9,6 +9,7 @@ public class Main4 {
     float b = 4;
     float c = 6;
     float z;
-    	System.out.println( "Задача 4. Ответ: z = "+( (a - 3 ) * b / 2) + c);
+    z = ( (a - 3 ) * b / 2) + c;
+    	System.out.println( " z = " + z);
     }
 }

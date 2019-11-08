@@ -8,6 +8,6 @@ public class Main7 {
     	double length = 2.4;
     	double width = length / 2;
     	double s = length*width;
-			System.out.println("Задача 7. Ответ: s = " + s);
+			System.out.println("s = " + s);
     }
 }
